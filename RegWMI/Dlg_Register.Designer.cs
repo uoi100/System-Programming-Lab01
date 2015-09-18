@@ -59,7 +59,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_AppName.Location = new System.Drawing.Point(179, 13);
             this.txt_AppName.Name = "txt_AppName";
-            this.txt_AppName.Size = new System.Drawing.Size(160, 20);
+            this.txt_AppName.Size = new System.Drawing.Size(164, 20);
             this.txt_AppName.TabIndex = 1;
             // 
             // btn_confirm
@@ -89,7 +89,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_Name.Location = new System.Drawing.Point(179, 39);
             this.txt_Name.Name = "txt_Name";
-            this.txt_Name.Size = new System.Drawing.Size(160, 20);
+            this.txt_Name.Size = new System.Drawing.Size(164, 20);
             this.txt_Name.TabIndex = 4;
             // 
             // lbl_Year
@@ -112,7 +112,7 @@
             0,
             0});
             this.num_Year.Name = "num_Year";
-            this.num_Year.Size = new System.Drawing.Size(160, 20);
+            this.num_Year.Size = new System.Drawing.Size(164, 20);
             this.num_Year.TabIndex = 6;
             this.num_Year.Value = new decimal(new int[] {
             2015,
@@ -154,7 +154,7 @@
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox1.Location = new System.Drawing.Point(0, 16);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(342, 132);
+            this.groupBox1.Size = new System.Drawing.Size(346, 136);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
             // 
@@ -164,9 +164,9 @@
             this.panel1.Controls.Add(this.btn_confirm);
             this.panel1.Controls.Add(this.btn_Cancel);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(3, 103);
+            this.panel1.Location = new System.Drawing.Point(3, 107);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(336, 26);
+            this.panel1.Size = new System.Drawing.Size(340, 26);
             this.panel1.TabIndex = 8;
             // 
             // Dlg_Register
